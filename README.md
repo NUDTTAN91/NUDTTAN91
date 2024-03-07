@@ -1,4 +1,4 @@
-<img width="200%" src="./images/hr.gif" />
+![](assets/Bottom_up.svg)
 
 ### Hi there 👋
 
