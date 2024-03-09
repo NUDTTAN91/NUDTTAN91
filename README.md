@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <a href="https://hub.docker.com/u/nudttan91"><img src="https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker" /></a>&emsp;
     <a href="none"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://zxw-nudt.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+<!--     <a href="https://github.com/NUDTTAN91/NUDTTAN91/stargazers"><img src="https://img.shields.io/github/stars/NUDTTAN91/NUDTTAN91.svg?logo=github"></a>&emsp; -->
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=NUDTTAN91&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
