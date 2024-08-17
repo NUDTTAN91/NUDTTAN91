@@ -89,6 +89,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="Java Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat" alt="PowerShell Badge">
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=fff&style=flat" alt="Shell Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=flat" alt="SQL Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
