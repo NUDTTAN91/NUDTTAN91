@@ -1,0 +1,30 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天运行一次
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate GitHub Profile Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add trophy.svg
+          git diff --staged --quiet || git commit -m "Update trophy"
+          git push

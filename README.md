@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 奖杯 -->
-<img align="middle" src="https://github-profile-trophy.vercel.app/?username=NUDTTAN91&column=9&margin-w=0&margin-h=0" alt="trophy" />
+<img align="middle" src="https://cdn.jsdelivr.net/gh/NUDTTAN91/NUDTTAN91/trophy.svg" alt="trophy" />
 <img width="200%" src="./images/hr.gif" />
 <!-- profile-3d-contrib 3D贡献图-->
 <picture>
